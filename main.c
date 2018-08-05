@@ -41,7 +41,6 @@ int main(int argc, char *argv[])
             int k = calc_hash(str);
             for(int i = 0; i < TABLE_SIZE; i++){
                 if(hash_table[k][0] == '\0'){
-                  printf("%d:%s\n", k, str);
                     strcpy(&hash_table[k][0], str);
                     break;
                 }
