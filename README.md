@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp/hash.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp/hash)
+[![Build Status](https://travis-ci.org/t-kougei-game-comp/08_hash.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp/08_hash)
 
 # 今回の問題
 
@@ -43,7 +43,7 @@ aの値に応じて、処理を変えてください。
 
 ## 期待する出力
 
-空行が入力された際に、その時点のハッシュテーブルを空行区切りで表示します。
+空行が入力された際に、その時点のハッシュテーブルを「,」区切りで表示します。
 
 最後は改行し、余計な文字、空行を含んではいけません。
 
