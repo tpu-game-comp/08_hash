@@ -1,22 +1,22 @@
-# ハッシュの演習
+# ハッシュ
 
 # 進め方
 ## はじめてのとき
 * [GitHub](https://github.com/)のアカウントを作成してください
-* [Travis CI](https://travis-ci.org/) のアカウントを作成してください
+* [Travis CI](https://travis-ci.com/) のアカウントを作成してください
 * GitHubのアカウントを[こちらのフォーム](https://goo.gl/forms/anAdoxqPKVt8sJGZ2)から教えてください。
 ## 毎回の進め方
 * このリポジトリをforkしてください
 * Travis CI を設定して、自動ビルドが通るようにしてください
    * Travis CI のGitHubアカウントでの登録とforkしたリポジトリをTravisCI側で許可する
-   * 参考サイト：[Travis CI入門 Travis CIとGitHubでCIを実現する方法(Change the World!)](http://changesworlds.com/2014/09/introduction-to-travis-ci-and-github-001/)
+   * 参考サイト：[Travis CIで自動テストして、結果をGitHubのトップページに表示する](https://qiita.com/hoshimado/items/4090d8e64beb8a7f95e1)
 * forkしたリポジトリの README.md ファイルの「t-kougei-game-comp」の部分を自分のGitHubアカウント名に差し替えてください(2箇所)
 * 問題を解いて、テストを通るようにしてください。
 * fork 元の master ブランチにプルリクエストを投げてください
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-game-comp/08_hash.svg?branch=master)](https://travis-ci.org/t-kougei-game-comp/08_hash)
+[![Build Status](https://travis-ci.com/t-kougei-game-comp/08_hash.svg?branch=master)](https://travis-ci.com/t-kougei-game-comp/08_hash)
 
 # 今回の問題
 
